@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "58klatek - przeprojektowanie",
-    "currentPage": "nasze-filmy.html",
+    "currentPage": "nasz-sprzet.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1665,7 +1665,7 @@
         }
       ]
     },
-    "nasz-sprzet..html": {
+    "nasz-sprzet.html": {
       "settings": {
         "title": "Sprawdź nasz sprzet wykorzystywany do krecenia filmów",
         "meta_descr": "",
