@@ -569,13 +569,13 @@ h6,
   color: #565656;
 }
 #header6-1s .mbr-section-title {
-  color: #ffffff;
+  color: #28324e;
 }
 #header6-1s .mbr-section-text {
-  color: #ffffff;
+  color: #28324e;
 }
 #header6-1s .mbr-section-text B {
-  color: #ffffff;
+  color: #28324e;
 }
 #header6-1l .mbr-section-title {
   color: #232323;
@@ -728,6 +728,13 @@ h6,
 #features3-4 H4 {
   text-align: left;
   font-size: 30px;
+}
+#header6-27 .mbr-section-title {
+  color: #28262b;
+  font-size: 30px;
+}
+#header6-27 .mbr-section-text {
+  color: #565656;
 }
 #buttons1-1r .btn {
   font-size: 16px;
